@@ -1,0 +1,153 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+header{    
+width: 90%;    
+margin: auto;    
+overflow: hidden;    
+margin-top: 50px;
+}
+.logo{    
+width: 20%;    
+float: left;
+}
+.logo img{
+
+}
+.menu{
+    width: 70%;
+    float: right;}
+.menu ul{
+list-style: none;
+float: right;
+}
+.menu ul li{           
+float: left;           
+margin-left: 100px;
+}
+.menu ul li a{    
+text-transform: uppercase;    
+color: #626262;    
+text-decoration: none;    
+font-family: 'Playfair Display', serif;
+}
+.banner{
+
+width: 90%;
+margin: auto;
+margin-top: 70px;
+}
+.banner img{
+width: 100%;
+}
+
+.photodiary{
+    width: 76%;
+    margin:auto;
+}
+.photodiary h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    text-transform: uppercase;
+    color: #b4ad9e;
+    padding: 80px 0px 20px;
+
+}
+.photodiary h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 35px;
+    text-align: left;
+    color: #626262;
+    font-weight: 250;
+
+}
+.photodiary p{
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    text-align: left;
+    color: #626262;
+    padding: 30px 0px;
+
+}
+.photodiary a{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    text-align: left;
+    color: #b4ad9e;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 40px 0px;
+
+}
+.lifestyle{
+    width: 76%;
+    margin: auto;
+    overflow: hidden;
+    
+}
+.lifestyle_left{
+    width: 48%;
+    float: left;
+    margin: 100px 0px 0px;
+}
+.lifestyle_right{
+    width: 48%;
+    float:right ;
+    margin: 100px 0px 0px;
+}
+
+.lifestyle_left img{
+    width: 100%;
+}
+.lifestyle_right img{
+    width: 100%;
+}
+.lifestyle_left h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    padding: 40px 0px;
+}
+.lifestyle_right h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    text-align: left;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    padding: 40px 0px;
+}
+.lifestyle_left h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 33px;
+    text-align: left;
+    color: #626262;
+    font-weight: 200;
+
+}
+.lifestyle_right h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 33px;
+    text-align: left;
+    color: #626262;
+    font-weight: 200;
+
+}
+.lifestyle_left p{
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    text-align: left;
+    color: #626262;
+    padding: 30px 0px;
+}
+.lifestyle_right p{
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    text-align: left;
+    color: #626262;
+    padding: 30px 0px;
+}
